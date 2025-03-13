@@ -65,3 +65,5 @@ jobs:
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           slug: CSCI-GA-2820-SP25-003/lab-github-actions
+          verbose: true
+
